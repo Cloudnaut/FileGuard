@@ -6,6 +6,11 @@
 
 FileGuard is a command-line tool for file and directory integrity verification. It creates indexes with SHA-256 checksums of files and enables detection of changes to these files. The tool is designed for monitoring data integrity, compliance auditing, and forensic analysis.
 
+If you like this tool and want to buy me a coffee via PayPal, you can do so here:
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E35WXVCT8C8A6)
+
+
 ## ✨ Features
 
 - **SHA-256 Hash Verification**: Uses cryptographically secure SHA-256 hashing for file integrity verification
